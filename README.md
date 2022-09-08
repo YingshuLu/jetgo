@@ -28,7 +28,7 @@
     res = in(elem, arr)  
 ```
 
-## Value assign
+## Value operator
 
 ```  
     boolean:
@@ -199,7 +199,7 @@ results = [timeout_ms] fork {
 ```  
 
 * keyword: ***fork***
-* timeout: timeout_ms number类型 毫秒单位
+* timeout: timeout_ms number type
 * callee: MUST be method
 * returns: array type, length equals to the number of methods
 
