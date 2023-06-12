@@ -1,6 +1,6 @@
 # Jetgo
 
-Partly adopted by QQ (OICQ sofeware bytencent) risk-control system. 
+Partly adopted by QQ (OICQ sofeware by tencent) risk-control system. 
 
 **dynamic-typing, script-like, rule-based language**  
 
